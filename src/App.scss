@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Cabrito";
+  src: url("./fonts/CabritoDidone-NorReg.ttf") format("truetype");
+  font-weight: normal;
+  font-size: normal;
+  /* Vous pouvez spécifier d'autres formats de police (eot, woff, woff2, etc.) selon les besoins */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lexend";
+//   background-color: red;
+}

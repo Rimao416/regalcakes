@@ -1,0 +1,58 @@
+{
+    "utilisateurs": [
+        {
+            "nom": "Alice",
+            "role": "Client",
+            "commentaire": "J'adore vos savons ! Ils laissent ma peau douce et parfumée.",
+            "photo": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "nom": "Sarah",
+            "role": "Cliente",
+            "commentaire": "Vos savons naturels sont incroyables. J'en recommande toujours plus.",
+            "photo": "https://images.pexels.com/photos/1925482/pexels-photo-1925482.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "nom": "Eva",
+            "role": "Cliente",
+            "commentaire": "Les savons sont arrivés en parfait état. Merci pour la livraison rapide !",
+            "photo": "https://images.pexels.com/photos/2804282/pexels-photo-2804282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "nom": "David",
+            "role": "Client",
+            "commentaire": "Votre gamme de savons parfumés est exceptionnelle. Je suis un client fidèle.",
+            "photo": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "nom": "Sophie",
+            "role": "Client",
+            "commentaire": "J'ai offert vos savons en cadeau, et ils ont été très appréciés. Bravo !",
+            "photo": "https://images.pexels.com/photos/1876429/pexels-photo-1876429.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "nom": "Admin",
+            "role": "Administrateur",
+            "commentaire": "N'hésitez pas à nous contacter si vous avez des questions sur nos produits.",
+            "photo": "https://images.pexels.com/photos/735551/pexels-photo-735551.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "nom": "Paul",
+            "role": "Client",
+            "commentaire": "Vos savons sont devenus indispensables dans ma routine de soins.",
+            "photo": "https://example.com/photos/paul.jpg"
+        },
+        {
+            "nom": "Caroline",
+            "role": "Client",
+            "commentaire": "La variété de parfums que vous proposez est incroyable. J'en découvre de nouveaux chaque mois !",
+            "photo": "https://example.com/photos/caroline.jpg"
+        },
+        {
+            "nom": "Luc",
+            "role": "Client",
+            "commentaire": "Je recommande votre boutique à tous mes amis. Continuez le bon travail !",
+            "photo": "https://example.com/photos/luc.jpg"
+        }
+    ]
+}
